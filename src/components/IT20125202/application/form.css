@@ -1,0 +1,9 @@
+.required_label {
+    font-weight: bold;
+}
+
+.required_label:after {
+    color: #e32;
+    content: ' *';
+    display: inline;
+}

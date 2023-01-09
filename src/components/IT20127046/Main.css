@@ -1,0 +1,11 @@
+.backgroudImage{
+    background-image: url('../../images/back1.jpg'); 
+    padding: 10px 50px 50px 50px;
+}
+
+.mainBody{
+    background: white;
+    min-height: 100vh;
+    padding: 20px;
+    border-radius: 8px;
+}
